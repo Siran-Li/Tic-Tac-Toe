@@ -1,5 +1,4 @@
 # Tic-Tac-Toe
-# ===================Description========================
 
 Source Code for CS-456 Artificial Neural Network Project
 
